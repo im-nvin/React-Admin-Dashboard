@@ -1,0 +1,13 @@
+.barChartBox{
+    height: 100%;
+    width: 100%;
+    h1{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    //not giving height to chart because its overflowing so best option to give inline height in element height={150} becasuse container min h will be 180px and after that to prevent hover effect on graphs we give cursor fill none property
+    // .chart{
+    //     // height: %;
+    // }
+}
